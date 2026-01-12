@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-cname",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "generate CNAME file",
   "author": "Laddge <laddge.net>",
   "license": "MIT",

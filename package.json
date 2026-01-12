@@ -4,7 +4,8 @@
   "description": "generate CNAME file",
   "author": "Laddge <laddge.net>",
   "license": "MIT",
-  "exports": "./src/index.ts",
+  "main": "dist/index.mjs",
+  "types": "dist/index.d.mts",
   "files": [
     "dist"
   ],
